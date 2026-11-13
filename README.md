@@ -14,10 +14,6 @@ Software engineer and founder based in Santiago, Chile. I run two companies and 
 
 Senior JavaScript Engineer at **Automattic**, working on WordPress and the Gutenberg block editor.
 
-**Stack I use day to day**
-
-Go · TypeScript · React / Next.js / TanStack Start · React Native & Expo · Clojure · Python · Postgres · Cloudflare (Workers, D1, R2) · Modal
-
 Most of my work lives in private repositories. Happy to talk about any of it.
 
 🔗 [hummingbytes.com](https://hummingbytes.com)
