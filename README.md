@@ -12,7 +12,7 @@ Software engineer and founder based in Santiago, Chile. I run two companies and 
 
 **Before this**
 
-Senior JavaScript Engineer at **Automattic**, working on WordPress and the Gutenberg block editor.
+Director of Engineering at **Automattic**, leading multiple product teams.
 
 Most of my work lives in private repositories. Happy to talk about any of it.
 
