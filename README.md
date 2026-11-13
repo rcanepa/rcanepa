@@ -8,7 +8,7 @@ Software engineer and founder based in Santiago, Chile. I run two companies and 
 - **[Colossus DTE](https://colossusdte.cl)** — Electronic invoicing for Chilean small businesses.
 - **[Alto Calibre](https://altocalibre.cl)** — Job board for Chile's top companies.
 - **[UnrealReps](https://unrealreps.com)** — iOS strength-training log with live set tracking and voice recaps.
-- **Custom software at Colossus SpA** — ERP, accounting and CRM systems for clients (Clojure, Angular, Python).
+- **Custom software at Colossus SpA** — ERP, accounting and CRM systems for clients.
 
 **Before this**
 
