@@ -4,10 +4,10 @@ Software engineer and founder based in Santiago, Chile. I run two companies and 
 
 **What I'm building**
 
-- **[HummingBytes](https://hummingbytes.com)** — AI image and video generation for e-commerce product photography and creators. Paying customers.
-- **[Colossus DTE](https://colossusdte.cl)** — Electronic invoicing for Chilean small businesses: a Go engine that signs and submits tax documents to Chile's SII, plus a client portal and public API. In production.
+- **[HummingBytes](https://hummingbytes.com)** — AI image and video generation for e-commerce product photography and creators.
+- **[Colossus DTE](https://colossusdte.cl)** — Electronic invoicing for Chilean small businesses: a Go engine that signs and submits tax documents to Chile's SII, plus a client portal and public API.
 - **[Alto Calibre](https://altocalibre.cl)** — Job board for Chile's top companies.
-- **[UnrealReps](https://unrealreps.com)** — iOS strength-training log with live set tracking and voice recaps. Pre-launch.
+- **[UnrealReps](https://unrealreps.com)** — iOS strength-training log with live set tracking and voice recaps.
 - **Custom software at Colossus SpA** — ERP, accounting and CRM systems for clients (Clojure, Angular, Python).
 
 **Before this**
@@ -20,4 +20,4 @@ Go · TypeScript · React / Next.js / TanStack Start · React Native & Expo · C
 
 Most of my work lives in private repositories. Happy to talk about any of it.
 
-📫 [hummingbytes.com](https://hummingbytes.com) · renzo@hummingbytes.com
+🔗 [hummingbytes.com](https://hummingbytes.com)
